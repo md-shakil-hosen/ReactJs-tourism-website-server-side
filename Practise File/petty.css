@@ -1,0 +1,21 @@
+body{
+    background-image: url(/img/davisuko-5E5N49RWtbA-unsplash.jpg);
+    background-size: cover;
+}
+.reg-from{
+    background-color: #f3f0e5;
+    height:540px;
+    width: 445px;
+    margin-left: 450px;
+    margin-top: 50px;
+}
+h2{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 10px;
+}
+label{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
